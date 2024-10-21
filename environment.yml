@@ -1,0 +1,10 @@
+name: feather_conversion_env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - pyarrow
+  - pip
+  - pip:
+      - pytz
